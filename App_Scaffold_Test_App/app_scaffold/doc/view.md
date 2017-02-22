@@ -46,6 +46,7 @@ The rendered template as a html string.
 ```html
 <!-- templates/user_template.hdbs -->
 <p>Hello, {{name}}!</p>
+<p>WHAT A JERK</p>
 ```
 
 ```javascript
